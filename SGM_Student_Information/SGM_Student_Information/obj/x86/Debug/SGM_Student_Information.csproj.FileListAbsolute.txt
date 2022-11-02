@@ -1,0 +1,22 @@
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\bin\Debug\SGM_Student_Information.exe
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\bin\Debug\SGM_Student_Information.pdb
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.frm_Login.resources
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.Properties.Resources.resources
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.csproj.GenerateResource.Cache
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.exe
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.pdb
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.csprojResolveAssemblyReference.cache
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.frm_Add_New_Student_Details.resources
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\bin\Debug\SGM_Student_Information.exe.config
+F:\Student_Information_Assignment1\WindowsFormsApplication1\SGM_Student_Information\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.frm_View_Student_Details.resources
+F:\C#.Net\Assignment -1\SGM_Student_Information\bin\Debug\SGM_Student_Information.exe.config
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.exe
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.pdb
+F:\C#.Net\Assignment -1\SGM_Student_Information\bin\Debug\SGM_Student_Information.exe
+F:\C#.Net\Assignment -1\SGM_Student_Information\bin\Debug\SGM_Student_Information.pdb
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.csprojResolveAssemblyReference.cache
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.frm_Add_New_Student_Details.resources
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.frm_Login.resources
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.frm_View_Student_Details.resources
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.Properties.Resources.resources
+F:\C#.Net\Assignment -1\SGM_Student_Information\obj\x86\Debug\SGM_Student_Information.csproj.GenerateResource.Cache
