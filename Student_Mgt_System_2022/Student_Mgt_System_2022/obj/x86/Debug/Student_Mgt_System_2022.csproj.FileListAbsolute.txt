@@ -1,0 +1,12 @@
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\bin\Debug\Student_Mgt_System_2022.exe
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\bin\Debug\Student_Mgt_System_2022.pdb
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.Properties.Resources.resources
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.csproj.GenerateResource.Cache
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.exe
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.pdb
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.frm_Login.resources
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.frm_Add_New_Student.resources
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\bin\Debug\Student_Mgt_System_2022.exe.config
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.frm_Search_Student_Details.resources
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.frm_View_Student_List.resources
+F:\C#.Net\Assignment -3\Student_Mgt_System_2022\Student_Mgt_System_2022\obj\x86\Debug\Student_Mgt_System_2022.csprojResolveAssemblyReference.cache
